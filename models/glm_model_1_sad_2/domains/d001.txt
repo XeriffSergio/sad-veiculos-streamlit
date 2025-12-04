@@ -1,0 +1,13 @@
+bus
+convertible
+coupe
+hatchback
+mini-van
+offroad
+other
+pickup
+sedan
+suv
+truck
+van
+wagon
